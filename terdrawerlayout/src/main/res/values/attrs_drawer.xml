@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TertiaryDrawerLayout">
+        <attr name="hover_vis_height" format="dimension" />
+        <attr name="fill_vis_height" format="dimension" />//全展开高度
+        <attr name="following_scroll" format="boolean" />//默认高度
+        <attr name="default_state" format="enum" >
+            <enum name="close" value="0"/>
+            <enum name="hover" value="1"/>
+            <enum name="fill" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
