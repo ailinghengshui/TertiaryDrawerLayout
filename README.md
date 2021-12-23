@@ -17,6 +17,6 @@ allprojects {
 ```java
 2. Add the dependency
   dependencies {
-	        implementation 'com.github.ailinghengshui:TertiaryDrawerLayout:Tag'
+	        implementation 'com.github.ailinghengshui:TertiaryDrawerLayout:1.0.0'
 	}
 ```
